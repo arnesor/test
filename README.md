@@ -18,6 +18,7 @@ sequenceDiagram
 ```
 
 ```mermaid
+%%{init: { 'theme': 'base', 'gitGraph': {'showCommitLabel': false}} }%%
 gitGraph
        commit
        commit
